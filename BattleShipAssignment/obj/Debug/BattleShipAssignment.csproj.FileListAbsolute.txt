@@ -1,0 +1,19 @@
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\bin\Debug\BattleShipAssignment.pdb
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\obj\Debug\BattleShipAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\obj\Debug\BattleShipAssignment.pdb
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\obj\Debug\BattleShipAssignment.csprojAssemblyReference.cache
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\bin\Debug\BattleShip.BLL.dll
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\bin\Debug\BattleShip.BLL.pdb
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\obj\Debug\BattleShipAssignment.csproj.CopyComplete
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\bin\Debug\BattleShipAssignment.exe
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\obj\Debug\BattleShipAssignment.exe
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\bin\Debug\BattleShipAssignment.exe
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\bin\Debug\BattleShipAssignment.pdb
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\bin\Debug\BattleShip.BLL.dll
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\bin\Debug\BattleShip.BLL.pdb
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\obj\Debug\BattleShipAssignment.csprojAssemblyReference.cache
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\obj\Debug\BattleShipAssignment.csproj.CoreCompileInputs.cache
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\obj\Debug\BattleShipAssignment.csproj.CopyComplete
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\obj\Debug\BattleShipAssignment.exe
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\obj\Debug\BattleShipAssignment.pdb
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShipAssignment\bin\Debug\BattleShipAssignment.exe.config

@@ -1,0 +1,11 @@
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.CoreCompileInputs.cache
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\sandeepsingh02\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojAssemblyReference.cache
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.CoreCompileInputs.cache
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+D:\C Drive Backup\Documents\Visual Studio 2017\Projects\BattleShipAssignment\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb

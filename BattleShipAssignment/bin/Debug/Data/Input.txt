@@ -1,0 +1,7 @@
+Enter_width_and_height_of_battle_area:5 E
+Enter_number_of_battleship_for_each_player:2
+Enter_type_of_battleship_its_dimensions(width_and_height)_and_coordinates_for_player1_and_player2:Q 1 1 A1 B2
+Enter_type_of_battleship_its_dimensions(width_and_height)_and_coordinates_for_player1_and_player2:P 2 1 D4 C3
+Enter_sequence_of_missile_target_location_for_player1:A1 B3 B2 B4
+Enter_sequence_of_missile_target_location_for_player2:A1 B4 B5 B3 B3 E1 D5 D5 D4 D4
+exit:exit
